@@ -1,6 +1,4 @@
 
-using static UnityEditor.IMGUI.Controls.CapsuleBoundsHandle;
-
 namespace IMG.InputSystem
 {
     public class HandheldInput : InputSystem
